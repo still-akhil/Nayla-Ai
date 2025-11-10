@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "Akhil Rashed",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,17 +8,17 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your email",
-  "PASSWORD": "your password",
+  "EMAIL": "ldxyn@yahoo.com",
+  "PASSWORD": "wth.ass",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "Nayla Ai",
   "PREFIX": "/",
-  "reactUnsend": ["😡", "🤧", "😤", "😠"],
+  "reactUnsend": ["😭", "😘", "😋", "😚"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "100001039692046",
-    "100001039692046"
+    "100000688180576",
+    "61560795970987",
+    "100078001339167"
   ],
   "NDH": ["100001039692046"],
   "adminOnly": false,
